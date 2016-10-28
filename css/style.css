@@ -1,6 +1,11 @@
 #board {
   margin-top: 10px;
 }
+#letterX {
+  width: 170px;
+  height: 135px;
+  padding-top: 10px;
+}
 
 .box {
   border: 1px solid black;
