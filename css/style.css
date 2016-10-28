@@ -1,3 +1,11 @@
+button {
+  position: absolute;
+  bottom: 10;
+  align-self: right;
+}
+
+
+
 #board {
   margin-top: 10px;
 }
@@ -5,6 +13,10 @@
   width: 170px;
   height: 135px;
   padding-top: 10px;
+}
+#letterO {
+  width: 170px;
+  height: 145px;
 }
 
 .box {
